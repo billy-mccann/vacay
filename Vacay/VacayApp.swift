@@ -6,7 +6,7 @@ import SwiftUI
 struct VacayApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            LoginView()
         }
     }
 }
